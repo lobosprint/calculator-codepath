@@ -2,9 +2,9 @@
 
 Calculator is a tip calculator PHP page.
 
-Submitted by: **Your Name Here**
+Submitted by: Marcos Antolí González
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
