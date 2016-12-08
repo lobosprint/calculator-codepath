@@ -1,0 +1,9 @@
+.btn {
+  width: 100%;
+}
+
+.panel.panel-default.result {
+    margin: 15px !important;
+    background-color: #c2ff9e !important;
+    font-size: 20px !important;
+}
